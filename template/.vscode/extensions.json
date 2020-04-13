@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "boyswan.glsl-literal",
+    "CADENAS.vscode-glsllint",
+    "chenxsan.vscode-standardjs",
+    "dbaeumer.vscode-eslint",
+    "michelemelluso.code-beautifier",
+    "plievone.vscode-template-literal-editor",
+    "randrade23.beautify-json",
+    "slevesque.shader",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}

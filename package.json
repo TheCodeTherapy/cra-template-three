@@ -1,0 +1,28 @@
+{
+  "name": "cra-template-three",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "threejs",
+    "react-three-fiber"
+  ],
+  "main": "template.json",
+  "description": "Create React App template for ThreeJS ( by @marcogomez_ https://mgz.me )",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mgzme/cra-template-three.git"
+  },
+  "license": "BSD-3-Clause",
+  "engines": {
+    "node": ">=8"
+  },
+  "bugs": {
+    "url": "https://github.com/mgzme/cra-template-three/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
