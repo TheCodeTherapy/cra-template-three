@@ -42,7 +42,7 @@
       "eslint-fix": "yarn eslint-fix-js && yarn eslint-fix-jsx",
       "standard-fix": "yarn standard --fix",
       "fix-code": "yarn eslint-fix && yarn standard-fix",
-      "setup": "yarn add standard eslint eslint-config-standard eslint-plugin-import eslint-plugin-jest eslint-plugin-node eslint-plugin-promise eslint-plugin-react eslint-config-react-app eslint-plugin-flowtype eslint-plugin-react-hooks --dev && yarn fix-code && git add -A && git commit -m 'Takes care of installing devDependencies'"
+      "setup": "yarn add standard eslint eslint-config-standard eslint-plugin-standard eslint-plugin-import eslint-plugin-jest eslint-plugin-node eslint-plugin-promise eslint-plugin-react eslint-config-react-app eslint-plugin-flowtype eslint-plugin-react-hooks --dev && yarn fix-code && git add -A && git commit -m 'Takes care of installing devDependencies'"
     },
     "eslintConfig": {
       "extends": "react-app"
