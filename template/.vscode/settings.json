@@ -1,5 +1,5 @@
 {
   "editor.tabSize": 2,
-  "editor.formatOnSave": true,
+  "editor.rulers": [80,120],
   "eslint.packageManager": "yarn"
 }
